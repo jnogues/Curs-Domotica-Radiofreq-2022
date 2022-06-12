@@ -2,9 +2,10 @@
 
 
 1. Presentació i introducció.
-2. Tecnologies via radio: Wifi, Bluetooth, [Z-Wave](https://www.z-wave.com/), Zigbee (Theater-Matter) i LoRa (LoRaWan).
-3. Topologia dels sistemes. Connexi al núvol.
-4. Dispositius comercials Wifi:
+2. Tecnologies via radio: Wifi, Bluetooth, [Z-Wave](https://www.z-wave.com/), LoRa (LoRaWan) i  Zigbee (Theater-Matter).
+3. Relaci
+4. Topologia dels sistemes. Connexió al núvol.
+5. Dispositius comercials Wifi:
     * Shelly, SonOff, Tuya, Simon 270.
 6. Dispositius comercials Z-Wave:
     * Simon 100.
