@@ -17,6 +17,6 @@
 10. Configuració i muntatge de dispositius SonOff. Aplicació mòbil.
 11. Integració en Hub domòtic: Home Assistant.
 12. Instal3lació de Home Assistant: En Raspberry Pi, màquina virtual o ordinador amb Debian.
-13. Configuracions b
+13. Configuracions basiques.
 
 
