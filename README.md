@@ -41,4 +41,5 @@
 ### Valena next with netatmo 
 * [Guia tècnica Valena](https://www.legrand.es/documentos/Guia-Tecnica-Valena-%20Next-with-Netatmo-Legrand.pdf).
 * [LLista de reproducció de Valena](https://www.youtube.com/playlist?list=PLtbqsvd39xJEsewfYGfC9_cBFSjdv1mYn).
+* [CX3 with Netatmo](https://www.netatmo.com/es-es/partners/drivia)
 
