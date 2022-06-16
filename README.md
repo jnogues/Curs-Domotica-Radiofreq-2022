@@ -38,7 +38,7 @@
 [Ebook Simon 100](https://cdn2.hubspot.net/hubfs/235604/SIC/Ebooks/Simon%20general%202018/Catalogo%20General%20Simon%20N%C2%BA101-2018.pdf)
 [Tarifes Simon](https://recursos.detailerssimon.com/hubfs/Tarifa%20General%202022/Simon-T103-ESP-Abril.pdf)
 
-### Valena next with netamo 
+### Valena next with netatmo 
 * [Guia tècnica Valena](https://www.legrand.es/documentos/Guia-Tecnica-Valena-%20Next-with-Netatmo-Legrand.pdf).
 * [LLista de reproducció de Valena](https://www.youtube.com/playlist?list=PLtbqsvd39xJEsewfYGfC9_cBFSjdv1mYn).
 
