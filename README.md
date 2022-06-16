@@ -39,6 +39,6 @@
 [Tarifes Simon](https://recursos.detailerssimon.com/hubfs/Tarifa%20General%202022/Simon-T103-ESP-Abril.pdf)
 
 ### Valena next with netamo 
-[Guia tècnica Valena](https://www.legrand.es/documentos/Guia-Tecnica-Valena-%20Next-with-Netatmo-Legrand.pdf).
-[LLista de reproducció de Valena](https://www.youtube.com/playlist?list=PLtbqsvd39xJEsewfYGfC9_cBFSjdv1mYn).
+* [Guia tècnica Valena](https://www.legrand.es/documentos/Guia-Tecnica-Valena-%20Next-with-Netatmo-Legrand.pdf).
+* [LLista de reproducció de Valena](https://www.youtube.com/playlist?list=PLtbqsvd39xJEsewfYGfC9_cBFSjdv1mYn).
 
