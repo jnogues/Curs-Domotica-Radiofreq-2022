@@ -26,6 +26,7 @@
 * [Aqara, vídeo promocional](https://youtu.be/6pFn5IwFtmo).
 * [Explicació de Thread-Matter feta per Aqara](https://youtu.be/3VI-yzvB4oY).
 * [Smart Home Protocols: Thread Explained!](https://youtu.be/0JC4tNe0OS4).
+* [Llistat de productes certificats]([https://www.threadgroup.org/What-is-Thread/Thread-Benefits](https://www.threadgroup.org/What-is-Thread/Thread-Benefits#certifiedproducts)).
 
 ### Simon 100
 * [Vídeo Simon 270](https://youtu.be/JCwgFkpCOdU)
