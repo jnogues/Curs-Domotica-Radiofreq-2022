@@ -45,3 +45,8 @@
 * [LLista de reproducció de Valena](https://www.youtube.com/playlist?list=PLtbqsvd39xJEsewfYGfC9_cBFSjdv1mYn).
 * [CX3 with Netatmo](https://www.netatmo.com/es-es/partners/drivia)
 
+### Tuya
+[Endoll intel·ligent Garza](https://garza.es/conectividad/401262-Enchufe_Inteligente_Wifi_-8430624012622.html).
+[Nanxin](http://nanxin88.com/productView.aspx?view=882&id=109).
+
+
