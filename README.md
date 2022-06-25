@@ -60,5 +60,5 @@
 * [Hogar inteligente](https://hogarinteligente.tech/aqara).
 
 ### Home assistant
-* [Instal·lar Home assistnat](https://programarfacil.com/domotica/home-assistant/)
-* 
+* [Instal·lar Home assistant](https://programarfacil.com/domotica/home-assistant/)
+
