@@ -26,7 +26,9 @@
 #### [Plus 1](https://shelly.cloud/knowledge-base/devices/shelly-plus-1/)
 * [Guia d'aplicació del Shelly Plus 1](https://shelly.cloud/documents/user_guide/shelly_plus_1_app.pdf).
 * [Guia d'usuari del Shelly Plus 1](https://shelly.cloud/documents/user_guide/Shelly_Plus-1_multilanguage_v09_web.pdf).
-* 
+#### [Plus 1 PM](https://shelly.cloud/knowledge-base/devices/shelly-plus-1pm/)
+* [Guia d'aplicació del Shelly Plus 1 PM](https://shelly.cloud/documents/user_guide/shelly_plus_1pm_app.pdf).
+* [Guia d'usuari del Shelly Plus 1 PM](https://shelly.cloud/documents/user_guide/Shelly_Plus-1PM_multilanguage_v08_web.pdf).
 
 ### Thread i Matter
 * [Aqara, vídeo promocional](https://youtu.be/6pFn5IwFtmo).
