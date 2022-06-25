@@ -23,6 +23,7 @@
 
 ## Recursos
 ### Shelly plus 
+#### Plus 1
 * [Guia d'aplicació del Shelly Plus 1](https://shelly.cloud/documents/user_guide/shelly_plus_1_app.pdf).
 * [Guia d'usuari del Shelly Plus 1](https://shelly.cloud/documents/user_guide/Shelly_Plus-1_multilanguage_v09_web.pdf).
 * 
