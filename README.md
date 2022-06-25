@@ -22,7 +22,10 @@
 
 
 ## Recursos
-### [Guia d'usuari del Shelly 1 plus](https://shelly.cloud/documents/user_guide/shelly_plus_1_app.pdf)
+### Shelly plus 
+* [Guia d'aplicació del Shelly Plus 1](https://shelly.cloud/documents/user_guide/shelly_plus_1_app.pdf).
+* [Guia d'usuari del Shelly Plus 1](https://shelly.cloud/documents/user_guide/Shelly_Plus-1_multilanguage_v09_web.pdf).
+* 
 
 ### Thread i Matter
 * [Aqara, vídeo promocional](https://youtu.be/6pFn5IwFtmo).
