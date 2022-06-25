@@ -22,6 +22,8 @@
 
 
 ## Recursos
+### [Guia d'usuari del Shelly 1 plus](https://shelly.cloud/documents/user_guide/shelly_plus_1_app.pdf)
+
 ### Thread i Matter
 * [Aqara, vídeo promocional](https://youtu.be/6pFn5IwFtmo).
 * [Explicació de Thread-Matter feta per Aqara](https://youtu.be/3VI-yzvB4oY).
