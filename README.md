@@ -18,7 +18,7 @@
 8. Assistents de veu.
 9. Configuració i muntatge de dispositius Shelly. Aplicació mòbil i servidor web. 
 10. Configuració i muntatge de dispositius SonOff. Aplicació mòbil.
-## Bonus Track
+#### Bonus Track
 11. Integració en Hub domòtic: Home Assistant.
 12. Instal.lació de Home Assistant: En Raspberry Pi, màquina virtual o ordinador amb Debian.
 13. Configuracions inicials. Descoberta de nous dispositius.
