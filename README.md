@@ -3,7 +3,7 @@
 
 1. Presentació i introducció.
 2. Tecnologies via radio: Wifi, Bluetooth, [Z-Wave](https://www.z-wave.com/), LoRa (LoRaWan) i  Zigbee (Thread-Matter).
-3. Relaci
+3. 
 4. Topologia dels sistemes. Connexió al núvol.
 5. Dispositius comercials Wifi:
     * Shelly, SonOff, Tuya, Simon 270.
@@ -13,6 +13,7 @@
     * Relació entre Zigbee, Thread, Matter i CSA.
     * Ikea Tradfri.
     * Aqara Xiaomi.
+    * Valena next with netatmo 
 8. Assistents de veu.
 9. Configuració i muntatge de dispositius Shelly. Aplicació mòbil i servidor web. 
 10. Configuració i muntatge de dispositius SonOff. Aplicació mòbil.
