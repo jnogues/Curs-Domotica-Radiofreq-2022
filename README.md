@@ -3,7 +3,7 @@
 
 1. Presentació i introducció.
 2. Tecnologies via radio: Wifi, Bluetooth, [Z-Wave](https://www.z-wave.com/), LoRa (LoRaWan) i  Zigbee (Thread-Matter).
-3. 
+3. Avantatges i desavantatges de cada tecnologia.
 4. Topologia dels sistemes. Connexió al núvol.
 5. Dispositius comercials Wifi:
     * Shelly, SonOff, Tuya, Simon 270.
@@ -13,13 +13,16 @@
     * Relació entre Zigbee, Thread, Matter i CSA.
     * Ikea Tradfri.
     * Aqara Xiaomi.
-    * Valena next with netatmo 
+    * Valena next with netatmo. 
+    * Lidl.
 8. Assistents de veu.
 9. Configuració i muntatge de dispositius Shelly. Aplicació mòbil i servidor web. 
 10. Configuració i muntatge de dispositius SonOff. Aplicació mòbil.
-11. Integració en Hub domòtic: Home Assistant.
-12. Instal3lació de Home Assistant: En Raspberry Pi, màquina virtual o ordinador amb Debian.
-13. Configuracions inicials. Descoberta de nous dispositius.
+Bonus Track
+12. Integració en Hub domòtic: Home Assistant.
+13. Instal.lació de Home Assistant: En Raspberry Pi, màquina virtual o ordinador amb Debian.
+14. Configuracions inicials. Descoberta de nous dispositius.
+15. Dispositius DIY esp8266 i esp32 amb esphome.
 
 
 ## Recursos
@@ -56,6 +59,7 @@
 * [CX3 with Netatmo](https://www.netatmo.com/es-es/partners/drivia)
 
 ### Tuya
+* [Tuya web oficial](https://www.tuya.com/).
 * [Endoll intel·ligent Garza](https://garza.es/conectividad/401262-Enchufe_Inteligente_Wifi_-8430624012622.html). [Nanxin](http://nanxin88.com/productView.aspx?view=882&id=109).
 
 ### Aqara
