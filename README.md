@@ -59,6 +59,7 @@
 * [Endoll intel·ligent Garza](https://garza.es/conectividad/401262-Enchufe_Inteligente_Wifi_-8430624012622.html). [Nanxin](http://nanxin88.com/productView.aspx?view=882&id=109).
 
 ### Aqara
+* [Aqara web oficial](https://www.aqara.com/en/home.html).
 * [Hogar inteligente](https://hogarinteligente.tech/aqara).
 
 ### Home assistant
