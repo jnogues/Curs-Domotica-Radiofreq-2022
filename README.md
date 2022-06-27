@@ -1,7 +1,7 @@
 # Curs-Domotica-Radiofreq-2022
 
 
-1. Presentació i introducció.
+1. [Presentació i introducció](https://github.com/jnogues/Curs-Domotica-Radiofreq-2022/blob/main/cursRadioFreqEstiu2022.pdf).
 2. Tecnologies via radio: Wifi, Bluetooth, [Z-Wave](https://www.z-wave.com/), LoRa (LoRaWan) i  Zigbee (Thread-Matter).
 3. Avantatges i desavantatges de cada tecnologia.
 4. Topologia dels sistemes. Connexió al núvol.
