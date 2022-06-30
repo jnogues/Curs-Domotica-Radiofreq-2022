@@ -88,9 +88,23 @@ wifi:
 ``` 
 switch:
   - platform: gpio
-    name: "verdamqtt-Q13"
+    name: "Q13"
     id: Q13
     pin: GPIO13
     inverted: false 
  ```
-
+* Si tenim un pulsador a GPIO14 i volem controlar el rele Q13
+```
+binary_sensor:
+  - platform: gpio
+    name: "I14"
+    pin:
+      number: 14
+      inverted: false
+      mode: input
+    on_press:
+      then:
+        - switch.toggle: Q13   
+ ```
+ 
+ 
