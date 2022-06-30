@@ -152,6 +152,6 @@ binary_sensor:
         days_of_week: MON-SUN
         then:
           - switch.turn_off: Q13    
-`` 
+``` 
   
  
