@@ -120,7 +120,6 @@ binary_sensor:
   - interval: 2sec
     then:
       - if:
-          #condition: mqtt.connected
           condition: api.connected
           then:
             - switch.toggle: builtin_led   
