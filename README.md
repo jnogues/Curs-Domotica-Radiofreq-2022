@@ -126,4 +126,32 @@ binary_sensor:
             
   ```
   Tindré un led intermitant cada 2 segons indicant "aquí hi ha vida!". 
+  * Control per programació horària:
+  ```
+  time:
+  - platform: sntp
+    id: sntp_time 
+    timezone: Europe/Andorra
+    on_time:
+      # Cron syntax, trigger every 5 sec
+      - cron: '/5 * * * * *'
+        then:
+          - switch.toggle: Q13
+          
+     # Every morning on week
+      - seconds: 0
+        minutes: 51
+        hours: 22
+        days_of_week: MON-SUN
+        then:
+          - switch.turn_on: Q13
+     # Every morning on week
+      - seconds: 0
+        minutes: 52
+        hours: 22
+        days_of_week: MON-SUN
+        then:
+          - switch.turn_off: Q13    
+`` 
+  
  
