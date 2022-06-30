@@ -73,15 +73,24 @@
 * [Instal.lar esphome dins de home assistant (En Raspberry Pi 3 no funciona)](https://esphome.io/guides/getting_started_hassio.html#getting-started-with-esphome-and-home-assistant).
 * [Instal.lar esphome en windows](https://esphome.io/guides/installing_esphome.html#windows).
 * [Iniciar un projecte a ma](https://esphome.io/guides/getting_started_command_line.html#creating-a-project).
+#### Exemples de configuracions per una [nodemcu (ESP8266)](https://i0.wp.com/randomnerdtutorials.com/wp-content/uploads/2019/05/ESP8266-NodeMCU-kit-12-E-pinout-gpio-pin.png?quality=100&strip=all&ssl=1).
 * Per afegir multiples wifis:
 ```
 wifi:
   networks:
-  - ssid: "viscalaterra"
-    password: "pitufito*"
+  - ssid: "IoT3"
+    password: "Curs2022#"
   - ssid: "emed"
     password: "pitufito*"
 
 ```
-
+* Si fem servir per exemple la GPIO13 per connectar un relé:
+``` 
+switch:
+  - platform: gpio
+    name: "verdamqtt-Q13"
+    id: Q13
+    pin: GPIO13
+    inverted: false 
+ ```
 
