@@ -106,5 +106,25 @@ binary_sensor:
       then:
         - switch.toggle: Q13   
  ```
- 
+ * Si ara dins de la secció **switch** afegeixo:
+ ```
+ - platform: gpio
+    name: "builtin led"
+    pin: GPIO16
+    inverted: true 
+    id: builtin_led  
+ ```
+ I afageixo això:
+ ```
+ interval:
+  - interval: 2sec
+    then:
+      - if:
+          #condition: mqtt.connected
+          condition: api.connected
+          then:
+            - switch.toggle: builtin_led   
+            
+  ```
+  Tindré un led intermitant cada 2 segons indicant "aquí hi ha vida!". 
  
