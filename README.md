@@ -74,7 +74,7 @@
 * [Instal.lar esphome en windows](https://esphome.io/guides/installing_esphome.html#windows).
 * [Iniciar un projecte a ma](https://esphome.io/guides/getting_started_command_line.html#creating-a-project).
 * Per afegir multiples wifis:
-'''
+``
 wifi:
   networks:
   - ssid: "viscalaterra"
@@ -82,6 +82,6 @@ wifi:
   - ssid: "emed"
     password: "pitufito*"
 
-'''
+``
 
 
