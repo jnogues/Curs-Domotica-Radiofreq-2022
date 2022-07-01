@@ -196,7 +196,7 @@ docker run -d -p 8010:8000 -p 9000:9000 -p 9444:9443 \
 ```
 * Instal.lar node-red
 1. Faig un directory my_docker 
-2. Creo subdirectoris per cada node-red, p.ex. /home/elMeuUsuari/my_docker/nodered00 i /home/elMeuUsuari/my_docker/nodered01
+2. Creo subdirectoris per cada node-red, p.ex. `/home/elMeuUsuari/my_docker/nodered00` i `/home/elMeuUsuari/my_docker/nodered01`
 3. Permisos: `sudo chown -R 1000:1000 ~/my_docker`
 4. Ara fem:
 ```
