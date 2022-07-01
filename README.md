@@ -66,6 +66,9 @@
 * [Aqara web oficial](https://www.aqara.com/en/home.html).
 * [Hogar inteligente](https://hogarinteligente.tech/aqara).
 
+### Zigbee
+[Repositori dispositius zigbee](https://zigbee.blakadder.com/index.html).
+
 ### Home assistant
 * [Instal·lar Home assistant](https://programarfacil.com/domotica/home-assistant/)
 
