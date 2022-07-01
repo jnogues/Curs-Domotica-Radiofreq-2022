@@ -160,19 +160,19 @@ binary_sensor:
 * Administrar programes ràpidament amb Chocolatey
     1. Obrir el PowerShell com administrador.
     2. Executar aquests comandaments:
-` Set-ExecutionPolicy AllSigned ` 
+```
+Set-ExecutionPolicy AllSigned
 Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocolatey.org/install.ps1'))
 choco feature enable -n allowGlobalConfirmation
 choco install googlechrome firefox office365proplus winrar adobereader 7zip ccleanerportable vlc inkscape gimp
+```
 
-Per actualitzar tots els programes alhora:
+* Per actualitzar tots els programes alhora:
+``
 choco upgrade all -y
-Per desinstal·lar un programa:
+``
+* Per desinstal·lar un programa:
+``
 choco uninstall nomPrograma -y
-Activar office365:
-    1. DESACTIVA WINDOWS DEFENDER.
-    2. Descarrega aquest fitxer.
-    3. Descromprimeix-lo.
-    4. Executa'l com administrador.
-    5. Activa Windows Defender.
- 
+``
+
