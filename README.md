@@ -154,4 +154,6 @@ binary_sensor:
           - switch.turn_off: Q13    
 ``` 
   
+### OFF TOPIC
+Descarregar W10 LTSC: [LLoc web oficial](https://software-download.microsoft.com/download/sg/444969d5-f34g-4e03-ac9d-1f9786c69161/19044.1288.211006-0501.21h2_release_svc_refresh_CLIENT_LTSC_EVAL_x64FRE_es-es.iso).
  
