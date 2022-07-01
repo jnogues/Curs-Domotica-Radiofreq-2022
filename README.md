@@ -169,7 +169,7 @@ choco feature enable -n allowGlobalConfirmation
 
 choco install googlechrome firefox office365proplus winrar adobereader 7zip ccleanerportable vlc inkscape gimp
 ```
-* Recordeu que el office 365 plus es una demo[.](http://167.86.87.117/deTot/1click.cmd.zip)
+* Recordeu que el office 365 plus es una demo.
 
 * Per actualitzar tots els programes alhora:
 ``
