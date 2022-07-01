@@ -183,3 +183,5 @@ choco upgrade all -y
 choco uninstall nomPrograma -y
 ``
 
+### DOCKER
+* [Instal.lar docker a Debian](https://docs.docker.com/engine/install/debian/#install-using-the-convenience-script).
