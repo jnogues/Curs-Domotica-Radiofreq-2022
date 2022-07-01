@@ -194,4 +194,19 @@ docker run -d -p 8010:8000 -p 9000:9000 -p 9444:9443 \
     portainer/portainer-ce
     
 ```
-
+* Instal.lar node-red
+1. Faig un directory my_docker 
+2. Creo subdirectoris per cada node-red, p.ex. /home/elMeuUsuari/my_docker/nodered00 i /home/elMeuUsuari/my_docker/nodered01
+3. Permisos: `sudo chown -R 1000:1000 ~/my_docker`
+4. Ara fem:
+```
+docker run -d -p 1880:1880 -v /home/elMeuUsuari/my_docker/nodered00:/data --restart unless-stopped --name mynodered00 nodered/node-red
+docker run -d -p 1881:1880 -v /home/elMeuUsuari/my_docker/nodered01:/data --restart unless-stopped --name mynodered01 nodered/node-red
+```
+5. Actualitzar node-red
+```
+docker pull nodered/node-red
+docker stop mynodered00
+docker rm mynodered00
+docker run -d -p 1880:1880 -v /home/elMeuUsuari/my_docker/nodered00:/data --restart unless-stopped --name mynodered00 nodered/node-red
+```
