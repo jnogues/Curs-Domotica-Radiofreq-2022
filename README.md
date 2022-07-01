@@ -185,3 +185,13 @@ choco uninstall nomPrograma -y
 
 ### DOCKER
 * [Instal.lar docker a Debian](https://docs.docker.com/engine/install/debian/#install-using-the-convenience-script).
+* Instal.lar Portainer:
+```
+docker run -d -p 8010:8000 -p 9000:9000 -p 9444:9443 \
+    --name=myportainer --restart=always \
+    -v /var/run/docker.sock:/var/run/docker.sock \
+    -v portainer_data:/data \
+    portainer/portainer-ce
+    
+```
+
