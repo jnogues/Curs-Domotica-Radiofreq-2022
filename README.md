@@ -72,7 +72,7 @@
 ### Home assistant
 * [Instal·lar Home assistant](https://programarfacil.com/domotica/home-assistant/)
 
-### ESPHOME
+### Esphome
 * [Instal.lar esphome dins de home assistant (En Raspberry Pi 3 no funciona)](https://esphome.io/guides/getting_started_hassio.html#getting-started-with-esphome-and-home-assistant).
 * [Instal.lar esphome en windows](https://esphome.io/guides/installing_esphome.html#windows).
 * [Iniciar un projecte a ma](https://esphome.io/guides/getting_started_command_line.html#creating-a-project).
